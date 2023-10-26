@@ -8,4 +8,5 @@
 
 🚀 Join me on my quest to blend gaming and web technologies! Let's connect, collaborate, and level up together. 🎮🌐
 
-📫 Reach out to me at ![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)] or find me on ![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue)].
+📫 Reach out to me at ![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red) or find me on [![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/tofig-aghazada/).
+
