@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Tofig
 
-🚀 Game Developer | 🌐 Web Developer | 🚀 Creating Virtual Worlds
+🎮 Game Developer | 🌐 Web Developer | 🚀 Creating Virtual Worlds
 
-🎮 Passionate about creating immersive gaming experiences and exploring the endless possibilities of web development.
+🚀 Passionate about creating immersive gaming experiences and exploring the endless possibilities of web development.
 
 🕹️ In the gaming realm, I specialize in Unreal Engine. I'm always eager to take on new challenges and bring innovative ideas to life in the gaming industry.
 
