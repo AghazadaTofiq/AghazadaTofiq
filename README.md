@@ -1,11 +1,27 @@
-🎮 Game Developer | 🌐 Learning Web Development
+## 👋 Hello, I'm Tofig
 
-👋 Hey there! I'm Tofig, a passionate game developer with a growing interest in web development. I've always been captivated by the magic of creating immersive gaming experiences, and now, I'm on a journey to expand my skill set into the world of web technologies.
+🚀 Game Developer | 🌐 Web Developer | 🚀 Creating Virtual Worlds
 
-🕹️ In the gaming realm, I've crafted worlds, designed gameplay mechanics, and solved complex challenges. I'm currently working on multiplayer game and always looking for ways to push the boundaries of interactive entertainment.
+🎮 Passionate about creating immersive gaming experiences and exploring the endless possibilities of web development.
 
-💻 As I delve into web development, I'm exploring the ever-evolving landscape of HTML, CSS, and JavaScript. From building websites to web applications, I'm excited to bring my creativity and problem-solving skills to the digital space.
+🕹️ In the gaming realm, I specialize in Unreal Engine. I'm always eager to take on new challenges and bring innovative ideas to life in the gaming industry.
 
-🚀 Join me on my quest to blend gaming and web technologies! Let's connect, collaborate, and level up together. 🎮🌐
+🌐 I'm on a journey to broaden my skills in web development. Front-end, back-end, and everything in between. The web is the future, and I want to be a part of it.
 
-📫 Reach out to me at [![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:agazade.tofiq@gmail.com) or find me on [![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/tofig-aghazada/).
+🌟 Here's what I bring to the table:
+- 🎮 Proficiency in game development using Unreal Engine.
+- 💻 Strong command of React and Java.
+- 🚢 Experience with version control using Git and GitHub.
+- 🧩 Problem solver and perpetual learner.
+- 🎨 A love for designing interactive and visually stunning experiences.
+
+💡 I'm always learning, experimenting, and pushing the boundaries of what's possible in both gaming and web technologies. Join me on this exciting coding adventure!
+
+🌐 When I'm not deep into code, you can find me exploring the latest tech trends, experimenting with new frameworks, and sharing my knowledge with the developer community.
+
+📫 Don't hesitate to reach out at [![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:agazade.tofiq@gmail.com) or connect with me on [![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/tofig-aghazada/), whether it's game development, web projects, or just a chat about the latest tech trends.
+
+🎮 Current Project: Multiplayer game and Shopping website
+🌐 Learning: C++, React and Java
+
+🎮 Game on, 🌐 Code on, 🚀 Dream big!
