@@ -22,6 +22,7 @@
 📫 Don't hesitate to reach out at [![gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:agazade.tofiq@gmail.com) or connect with me on [![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/tofig-aghazada/), whether it's game development, web projects, or just a chat about the latest tech trends.
 
 🎮 Current Project: Multiplayer game and Shopping website
+
 🌐 Learning: C++, React and Java
 
 🎮 Game on, 🌐 Code on, 🚀 Dream big!
