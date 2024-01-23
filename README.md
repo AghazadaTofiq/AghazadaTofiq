@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Tofig
 
-🎮 Game Developer | 🌐 Web Developer | 🚀 Creating Virtual Worlds
+🎮 Game Developer | 🌐 Software Developer | 🚀 Creating Virtual Worlds
 
 🚀 Passionate about creating immersive gaming experiences and exploring the endless possibilities of web development.
 
